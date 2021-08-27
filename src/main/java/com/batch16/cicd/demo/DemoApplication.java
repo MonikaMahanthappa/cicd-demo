@@ -15,7 +15,7 @@ public class DemoApplication {
 
 	@GetMapping(value = "/")
 	public String homepage() {
-		return "<h1>My fancy homepage!</h1>";
+		return "<h1>My Very fancy homepage!</h1>";
 	}
 
 
